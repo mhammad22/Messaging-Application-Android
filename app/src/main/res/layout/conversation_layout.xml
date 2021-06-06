@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/ImgPerson"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:gravity="center_horizontal"
+        android:src="@mipmap/ic_launcher_round"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/PersonName"
+        android:layout_width="193dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="87dp"
+        android:layout_marginTop="15dp"
+        android:text=""
+        android:textColor="#b56478"
+        android:textSize="20sp"
+
+        android:textStyle="bold" />
+
+</RelativeLayout>
