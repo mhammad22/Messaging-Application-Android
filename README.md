@@ -23,5 +23,8 @@ appropriate, as long as it adheres to the following requirements:
 *) When the current user enters a message in the input box and press “Send”, the message shall be added to the list. For emulating reply from the remote user, generate some random text and add that to message list, every time the current user sends a message. Take care of ordering of the messages (based upon timestamp).
 
 
+# How to Run ?
+Open this Project with Android studio and install the Emulator to run the App.
+
 
 
